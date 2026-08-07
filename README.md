@@ -1,0 +1,1 @@
+This repo consists of files helping create Rock Paper Scissors game. This is my first JavaScript project built from scratch.
